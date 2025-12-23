@@ -5,10 +5,10 @@ public class printCalendar {
         
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Yılı giriniz: ");
+        System.out.println("Enter the year: ");
         int year = input.nextInt();
 
-        System.out.println("Ayı giriniz: ");
+        System.out.println("Enter the month: ");
         int month = input.nextInt();
 
         printMonth(year, month);
