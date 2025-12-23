@@ -5,14 +5,14 @@
 ---
 
 ## 📌 Sürüm Bilgisi | Version Info  
- ● Current Version: 1.0.0  
- ● Geçerli Sürüm: 1.0.0
+ ● Current Version: 1.1.0  
+ ● Geçerli Sürüm: 1.1.0
 
 ---
  
 | Language / Dil | Status / Durum |
 |---------------|----------------|
-| English | ⏳ Coming Soon |
+| English | ✅ |
 | Türkçe | ✅ |
 
 ---
@@ -65,6 +65,7 @@ java Calendar
 
 | Sürüm | Tarih       | Açıklama |
 |------:|-------------|----------|
+| 1.1.o | 2025-12-23  | English version has been created. / İngilizce sürüm oluşturuldu.
 | 1.0.0 | 2025-11-27  | First release. / İlk sürüm yayımlandı. |
 
 ---
